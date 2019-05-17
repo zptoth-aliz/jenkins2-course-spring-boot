@@ -5,11 +5,11 @@
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-samples</artifactId>
-		<version>1.4.0.BUILD-SNAPSHOT-FORKED2</version>
+		<version>1.4.0.BUILD-SNAPSHOT-FORKED</version>
 	</parent>
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
 	<name>Spring Boot Atmosphere Sample</name>
-	<description>Spring Boot Atmosphere Sample - Forked2</description>
+	<description>Spring Boot Atmosphere Sample - Forked3</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
 		<name>Pivotal Software, Inc.</name>
